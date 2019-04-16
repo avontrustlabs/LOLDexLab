@@ -15,7 +15,14 @@ Other contracts to be added under development
 3 LOLB Coordinating Liqudiity
 
 LOLB 0x
+
 LOLB IDEX https://docs.idex.market/#tag/HTTP-API-Introduction
+
 LOLB Other DEX
+
+Smart contract API expose centralized liquidity using account bots
+
 LOLB Centralized - 130 exchanges including our own
 LOLB Internal book
+
+
